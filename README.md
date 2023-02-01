@@ -1,5 +1,5 @@
-### Hi there 👋
-## I am Sai Chaitanya Vishnu kanth Inavolu. 
+## Hi there 👋
+### I am Sai Chaitanya Vishnu kanth Inavolu. 
 
 - 🔭 I worked as a *Manual Tester*
 - 📚 I'm currently pursuing my Masters in *Applied Computer Science*
