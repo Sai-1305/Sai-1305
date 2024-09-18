@@ -1,11 +1,9 @@
 ## Hi there 👋
 ### I am Sai Chaitanya Vishnu kanth Inavolu. 
 
-- 🔭 I worked as a *Manual Tester*
-- 📚 I'm currently pursuing my Masters in *Applied Computer Science*
-- 🌱 I’m currently learning *Web Applications*
-- 🤔 I’m looking for help with *Java*
-- 📬 How to reach me: inavolu.tools@gmail.com
-- 😄 Pronouns: *He/Him*
+- 🔭 **Big Data** professional.
+- 📚 Masters in *Applied Computer Science*, **Northwest Missouri State University**.
+- 🌱 Currently learning to build *Web Applications* & *Mobile Applications*.
+- 👨‍💻 Pronouns: *He/Him*.
 
 ![](ai-personalization-seo.gif)
